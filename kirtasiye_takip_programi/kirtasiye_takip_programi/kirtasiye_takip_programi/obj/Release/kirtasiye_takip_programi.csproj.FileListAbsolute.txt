@@ -1,0 +1,8 @@
+C:\Users\acer\Desktop\kirtasiye_takip_programi\kirtasiye_takip_programi\kirtasiye_takip_programi\obj\Release\ResolveAssemblyReference.cache
+C:\Users\acer\Desktop\kirtasiye_takip_programi\kirtasiye_takip_programi\kirtasiye_takip_programi\obj\Release\kirtasiye_takip_programi.Form1.resources
+C:\Users\acer\Desktop\kirtasiye_takip_programi\kirtasiye_takip_programi\kirtasiye_takip_programi\obj\Release\kirtasiye_takip_programi.Form2.resources
+C:\Users\acer\Desktop\kirtasiye_takip_programi\kirtasiye_takip_programi\kirtasiye_takip_programi\obj\Release\kirtasiye_takip_programi.Form3.resources
+C:\Users\acer\Desktop\kirtasiye_takip_programi\kirtasiye_takip_programi\kirtasiye_takip_programi\obj\Release\kirtasiye_takip_programi.Form4.resources
+C:\Users\acer\Desktop\kirtasiye_takip_programi\kirtasiye_takip_programi\kirtasiye_takip_programi\obj\Release\kirtasiye_takip_programi.Form5.resources
+C:\Users\acer\Desktop\kirtasiye_takip_programi\kirtasiye_takip_programi\kirtasiye_takip_programi\obj\Release\kirtasiye_takip_programi.Properties.Resources.resources
+C:\Users\acer\Desktop\kirtasiye_takip_programi\kirtasiye_takip_programi\kirtasiye_takip_programi\obj\Release\kirtasiye_takip_programi.csproj.GenerateResource.Cache
